@@ -1,19 +1,13 @@
 <p align="center">
-  <div align="center"> Julesaiyy </div>
+  # Julesaiyy
 </p>
 
 <div align="center">
 
-[![LICENSE](https://img.shields.io/github/license/xinntao/basicsr.svg)](https://github.com/xinntao/BasicSR/blob/master/LICENSE.txt)
-[![PyPI](https://img.shields.io/pypi/v/basicsr)](https://pypi.org/project/basicsr/)
-[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/xinntao/BasicSR.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/xinntao/BasicSR/context:python)
-[![python lint](https://github.com/xinntao/BasicSR/actions/workflows/pylint.yml/badge.svg)](https://github.com/xinntao/BasicSR/blob/master/.github/workflows/pylint.yml)
-[![Publish-pip](https://github.com/xinntao/BasicSR/actions/workflows/publish-pip.yml/badge.svg)](https://github.com/xinntao/BasicSR/blob/master/.github/workflows/publish-pip.yml)
-[![gitee mirror](https://github.com/xinntao/BasicSR/actions/workflows/gitee-mirror.yml/badge.svg)](https://github.com/xinntao/BasicSR/blob/master/.github/workflows/gitee-mirror.yml)
+[![LICENSE](figures/license_Apache-2.0.svg)](LICENSE)
+[![Github](https://img.shields.io/pypi/v/basicsr)](https://github.com/Julesaiyy)
 
 </div>
-
-# Julesaiyy.github.io
 
 - Jiuqiang Li. MCTE: Marrying Convolution and Transformer Efficiently for End-to-End Medical Image Segmentation. In 2023 IEEE International Conference on Image Processing (ICIP'2023). [[PDF]()] [[code](https://github.com/Julesaiyy/MCTE)]
 
