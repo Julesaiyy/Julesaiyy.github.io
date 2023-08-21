@@ -1,8 +1,6 @@
-<p align="center">
-  # Julesaiyy
-</p>
-
 <div align="center">
+
+# Julesaiyy
 
 [![LICENSE](figures/license_Apache-2.0.svg)](LICENSE)
 [![Github](https://img.shields.io/pypi/v/basicsr)](https://github.com/Julesaiyy)
