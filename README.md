@@ -3,7 +3,7 @@
 # Julesaiyy
 
 [![LICENSE](figures/license_Apache-2.0.svg)](LICENSE)
-[![Github](https://img.shields.io/pypi/v/basicsr)](https://github.com/Julesaiyy)
+[![Github](https://github.com/fluidicon.png)](https://github.com/Julesaiyy)
 
 </div>
 
