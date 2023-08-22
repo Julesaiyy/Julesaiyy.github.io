@@ -3,8 +3,6 @@
 # Julesaiyy
 
 [![LICENSE](figures/license_Apache-2.0.svg)](LICENSE)
-
-
 [![Github](https://github.githubassets.com/favicons/favicon.svg)](https://github.com/Julesaiyy)
 
 </div>
