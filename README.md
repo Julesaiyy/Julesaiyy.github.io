@@ -2,7 +2,7 @@
 
 # Julesaiyy
 
-[![LICENSE](figures/license_Apache-2.0.svg)](LICENSE)
+[![LICENSE](figures/license_Apache-2.0.svg){:height="100px" width="100px"}](LICENSE)
 [![Github](https://github.com/fluidicon.png){:height="10px" width="10px"}](https://github.com/Julesaiyy)
 
 </div>
